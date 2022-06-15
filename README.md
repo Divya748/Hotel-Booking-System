@@ -80,7 +80,8 @@ We want to provide comfort to the user in order that he can place order from any
 
 ## Project View
 
-
+**Home-Page**
+<img src=".images/Home-page.png" width = "400" height = "500">
 
 
 
