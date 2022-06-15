@@ -81,7 +81,21 @@ We want to provide comfort to the user in order that he can place order from any
 ## Project View
 
 **Home-Page**
-<img src=".images/Home-page.png" width = "400" height = "500">
+<br/>
+<br/>
+![Home-page](images/Home-page.png)
+<br/>
+<br/>
+**Hotels**
+<br/>
+<br/>
+![Hotels-list](images/Hotels.png)<br/>
+<br/>
+<br/>
+**room-book**
+<br/>
+<br/>
+![user-booking](images/User-booking.png)
 
 
 
