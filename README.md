@@ -68,14 +68,17 @@ We want to provide comfort to the user in order that he can place order from any
 > 6. Open Mysql-command-line-client 
    - give your password
    - command to create database `create database database-name`
-> 5. [To run file go here](https://github.com/Divya748/Hotel-Booking-System/blob/master/hotelmanagementsystem/src/main/java/com/revature/hotelmanagementsystem/HotelmanagementsystemApplication.java)
-> 6. Right click -> Run as -> java application.
+> 7. [To run file go here](https://github.com/Divya748/Hotel-Booking-System/blob/master/hotelmanagementsystem/src/main/java/com/revature/hotelmanagementsystem/HotelmanagementsystemApplication.java)
+> 8. Right click -> Run as -> java application.
 > 
  **Steps to run Frontend** 
 > 1. Extract the `frontend.zip` file.
 > 2. Open command prompt in that directory.
 > 3. Type command `npm install`
 > 4. Type command `ng serve` or `ng serve --open`(It will open browser automatically)
+> 
+
+## Project View
 
 
 
